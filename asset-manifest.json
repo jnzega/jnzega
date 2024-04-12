@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/jnzega/static/css/main.37fa7124.css",
-    "main.js": "/jnzega/static/js/main.0f9a7bee.js",
-    "static/media/Joshua-CV.pdf": "/jnzega/static/media/Joshua-CV.18763e6324af31191926.pdf",
-    "static/media/about.jpg": "/jnzega/static/media/about.f0012d63283b2e848c83.jpg",
-    "static/media/profile.jpg": "/jnzega/static/media/profile.f0012d63283b2e848c83.jpg",
-    "static/media/recommendation1.png": "/jnzega/static/media/recommendation1.cac82561c043476e93e0.png",
-    "static/media/recommendation2.png": "/jnzega/static/media/recommendation2.cac82561c043476e93e0.png",
-    "static/media/recommendation3.png": "/jnzega/static/media/recommendation3.cac82561c043476e93e0.png",
-    "static/media/logo.png": "/jnzega/static/media/logo.601435b24021a4237011.png",
-    "index.html": "/jnzega/index.html",
-    "main.37fa7124.css.map": "/jnzega/static/css/main.37fa7124.css.map",
-    "main.0f9a7bee.js.map": "/jnzega/static/js/main.0f9a7bee.js.map"
+    "main.css": "/static/css/main.8261f544.css",
+    "main.js": "/static/js/main.c3af85ea.js",
+    "static/media/Joshua-CV.pdf": "/static/media/Joshua-CV.18763e6324af31191926.pdf",
+    "static/media/about.jpg": "/static/media/about.f0012d63283b2e848c83.jpg",
+    "static/media/profile.jpg": "/static/media/profile.f0012d63283b2e848c83.jpg",
+    "static/media/recommendation1.png": "/static/media/recommendation1.cac82561c043476e93e0.png",
+    "static/media/recommendation2.png": "/static/media/recommendation2.cac82561c043476e93e0.png",
+    "static/media/recommendation3.png": "/static/media/recommendation3.cac82561c043476e93e0.png",
+    "static/media/logo.png": "/static/media/logo.601435b24021a4237011.png",
+    "index.html": "/index.html",
+    "main.8261f544.css.map": "/static/css/main.8261f544.css.map",
+    "main.c3af85ea.js.map": "/static/js/main.c3af85ea.js.map"
   },
   "entrypoints": [
-    "static/css/main.37fa7124.css",
-    "static/js/main.0f9a7bee.js"
+    "static/css/main.8261f544.css",
+    "static/js/main.c3af85ea.js"
   ]
 }
