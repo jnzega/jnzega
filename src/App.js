@@ -8,6 +8,8 @@ import Services from './components/services/Services';
 import Qualification from './components/qualification/Qualification';
 import Recommendation from './components/recommendation/Recommendation';
 import Contact from './components/contact/Contact';
+import Footer from './components/footer/Footer';
+import ScrollUp from './components/scrollup/ScrollUp';
 
 function App() {
   return (
@@ -23,6 +25,9 @@ function App() {
         <Recommendation />
         <Contact />
       </main>
+
+      <Footer />
+      <ScrollUp />
     </>
   );
 }
