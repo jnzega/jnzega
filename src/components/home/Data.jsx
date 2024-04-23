@@ -8,7 +8,11 @@ const Data = () => {
 
     React.useEffect(() => {
         const typed = new Typed(el.current, {
-            strings: ['Informatics Student', 'Database Assistant Lecturer', 'Web Developer'],
+            strings: [
+                'Informatics Student', 
+                'Database Assistant Lecturer', 
+                'Web Developer'
+            ],
             typeSpeed: 75,
             backSpeed: 10,
             loop: true,
