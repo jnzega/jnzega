@@ -11,7 +11,7 @@ const Data = () => {
             strings: [
                 'Informatics Student', 
                 'Database Assistant Lecturer', 
-                'Web Developer'
+                'Web Developer',
             ],
             typeSpeed: 75,
             backSpeed: 10,
