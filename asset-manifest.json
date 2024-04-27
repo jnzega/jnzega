@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.8261f544.css",
-    "main.js": "/static/js/main.cb28227e.js",
-    "static/media/Joshua-CV.pdf": "/static/media/Joshua-CV.8c0b9e43f74f204f524c.pdf",
+    "main.js": "/static/js/main.1baf538f.js",
+    "static/media/CV-Zega-April-2024.pdf": "/static/media/CV-Zega-April-2024.b31a889ef33e82b46c00.pdf",
     "static/media/about.jpg": "/static/media/about.f0012d63283b2e848c83.jpg",
     "static/media/profile.jpg": "/static/media/profile.f0012d63283b2e848c83.jpg",
     "static/media/recommendation1.png": "/static/media/recommendation1.cac82561c043476e93e0.png",
@@ -11,10 +11,10 @@
     "static/media/logo.png": "/static/media/logo.601435b24021a4237011.png",
     "index.html": "/index.html",
     "main.8261f544.css.map": "/static/css/main.8261f544.css.map",
-    "main.cb28227e.js.map": "/static/js/main.cb28227e.js.map"
+    "main.1baf538f.js.map": "/static/js/main.1baf538f.js.map"
   },
   "entrypoints": [
     "static/css/main.8261f544.css",
-    "static/js/main.cb28227e.js"
+    "static/js/main.1baf538f.js"
   ]
 }
