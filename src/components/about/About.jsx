@@ -1,6 +1,6 @@
 import "./about.css";
 import AboutImg from "../../assets/about.jpg";
-import CV from "../../assets/Joshua-CV.pdf";
+import CV from "../../assets/CV-Zega-April-2024.pdf";
 import Info from "./Information";
 
 const About = () => {
@@ -17,7 +17,7 @@ const About = () => {
 
           <p className="about__description">As a passionate informatics student, I explore the world of software development, artificial intelligence, and the Internet of Things. I am a lover of challenges and never give up.</p>
 
-          <a download="hehe" href={CV} className="button button--flex">Download CV
+          <a download="CV-Zega-April-2024" href={CV} className="button button--flex">Download CV
             <svg
               class="button__icon"
               xmlns="http://www.w3.org/2000/svg"
